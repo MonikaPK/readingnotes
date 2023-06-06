@@ -13,3 +13,6 @@ alongside im mad:
 2. crazy
 3. bold
 4. bys
+***
+###about 
+This is me 
