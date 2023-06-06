@@ -8,7 +8,7 @@
 -monika-
 
 Hi here i go.
-alongside im mad:
+alongside about me:
 1. nuts
 2. crazy
 3. bold
@@ -18,4 +18,6 @@ alongside im mad:
 This is me 
 ***
 ### growth 
-DEMO ME
+>Growth is all about self development.
+![This is octacat]{https://www.google.com/search?q=octocat+github+images.svg}
+
